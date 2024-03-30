@@ -48,7 +48,7 @@ function Stopwatch() {
 
   return (
     <div className="stopwatch">
-      <p className="stopwatch-title">Stopwatch</p>
+      <p className="stopwatch-title">Stopwatch Timer</p>
       <div className="display">
         {formatTime()}
         <div className="labels-display">
